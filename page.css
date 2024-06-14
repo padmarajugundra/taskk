@@ -1,0 +1,7 @@
+.image
+	{
+		background-image:url("IMAGES/img1.jpg");
+		height: 800px;
+		width: 1510px;
+		background-blend-mode: lighten;
+	}

@@ -1,0 +1,12 @@
+
+ a[href]{
+ 	border : 2px solid blue
+ 	color:green;
+ }
+ img[src]{
+ 	border:1px solid green;
+ 	color:maroon;
+ }
+  a:hover{
+  	color: orange;
+  }
